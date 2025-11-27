@@ -1,19 +1,103 @@
-# Hello there; welcome 👋🏾
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0099ff,aa00ff&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=45" width="100%"/>
+  
+  <h3>🚀 Bridging Tech, Entrepreneurship & Project Management</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=Charles-c4&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</div>
+<br/>
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Website Badge](https://img.shields.io/badge/-https://charles-c4.github.io/My-portfolio/-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://charles-c4.github.io/My-portfolio/)](https://charles-c4.github.io/My-portfolio/) [![Linkedin Badge](https://img.shields.io/badge/-iamcharles-c4-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charles-c4-chukwuleta)](https://www.linkedin.com/in/charles-c4-chukwuleta) [![Twitter Badge](https://img.shields.io/badge/-@charleschu4891-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/charleschu4891)](https://twitter.com/charleschu4891)
+<div align="center"> 
+  <h3>👨🏻‍💻 🅰🅱🅾🆄🆃 🅼🅴</h3>
+  <p>
+    I am a Cloud Engineer and Tech Entrepreneur focused on building resilient infrastructure and solving human problems. 
+    Currently, I am navigating the intersection of <b>DevOps</b> and <b>Business Strategy</b>.
+  </p>
+  
+  <p>
+    🎓 Proud student at <b>Lagos State University (LASU)</b> & <b>AltSchool Africa</b>.
+  </p>
+  
+  <br/>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/CURRENTLY_BUILDING-BETPROTECTOR-FF4500?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+  <p>
+    <i>Building <b>BetProtector</b> — A fintech tool empowering users to regain control over financial impulses and addiction.</i>
+  </p>
+</div>
 
-I'm a Software Engineer, Certified cloud engineer, and Community Engineer founder of @betprotector.ng (https://asikoenergy.com). I’m a passionate software engineer with a focus on web and cloud technologies. I thrive on turning ideas into working systems — whether it’s deploying scalable web apps, contributing to GitHub, or solving real-world problems through code. Right now, I’m building an e-learning platform to make education more accessible, and every project I take on pushes me to learn, build, and improve. I’m driven by impact, collaboration, and the challenge of creating tools that make a difference." (on my [portfolio](https://charles-c4.github.io/My-portfolio/), and [YouTube](https://www.youtube.com/c/=chukwuletacharles)), build useful [open-source projects](https://github.com/charles-c4), speak at some meetups/conferences, build technical communities...
+<br/>
 
-**Here's a quick summary about me**:
+<div align="center">
 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
-- 🌱 I’m currently learning JavaScript, Aws, and Gcp.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing chukwuletacharles@gmail.com.
+  <h3>🆃🅴🅲🅷 🆂🆃🅰🅲🅺</h3>
 
----
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <br/>
 
-| <img align="center" src="https://charles-c4.github.io/My-portfolio/api?username=chukwuletacharles&show_icons=true&include_all_commits=true&hide_border=true" alt="clement's GitHub stats" /> | <img align="center" src="https://charles-c4.github.io/My-portfolio/api/top-langs/?username=charleschukwuleta&langs_count=8&layout=compact&hide_border=true" alt="charles-c4's GitHubstats" /> |
-| ------------- | ------------- |
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴</h3>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charles-c4&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charles-c4&theme=radical&hide_border=true" height="180" alt="streak graph" />
+</div>
+
+<br/>
+
+<h3>🧠 🅼🆈 🅼🅸🆂🆂🅸🅾🅽</h3>
+
+```javascript
+const engineer = {
+    name: Charles Chukwuleta
+    education: ["LASU", "AltSchool Africa"],
+    stack: ["Cloud", "DevOps", "Project Management"],
+    currentProject: "BetProtector"
+};
+
+const solveProblem = (tech, empathy) => {
+    if (tech && empathy) {
+        return "Impactful Solutions";
+    }
+};
+
+while (alive) {
+   learn();
+   deploy_infrastructure();
+   build_business_value();
+}
