@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0099ff,aa00ff&height=200&section=header&text=Cloud%20%26%20DevOps%20Engineer&fontSize=45" width="100%" alt="Header" />
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3596F7&background=00000000&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;Bridging+Tech+%26+Business;Building+BetProtector" alt="Typing SVG" />
+  </a>
+
   <h3>🚀 Bridging Tech, Entrepreneurship & Project Management</h3>
   
-  <img src="https://komarev.com/ghpvc/?username=Charles-c4&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCharles-c4&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" />
 </div>
 
 <br/>
@@ -35,6 +37,11 @@
   <h3>🆃🅴🅲🅷 🆂🆃🅰🅲🅺</h3>
 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
+  <br/>
+
   <img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -58,13 +65,13 @@
 <div align="center">
   <h3>🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴</h3>
   
-  <a href="https://linkedin.com/in/charles-c4-chukwuleta">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chukwuletacharles@gmail.com">
+  <a href="mailto:your_email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/charleschu4891">
+  <a href="https://twitter.com/YOUR_HANDLE">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </div>
