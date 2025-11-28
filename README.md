@@ -65,13 +65,13 @@
 <div align="center">
   <h3>🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴</h3>
   
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/charles-c4-chukwuleta">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:chukwuletacharles@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
+  <a href="https://twitter.com/charleschu4891">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 </div>
